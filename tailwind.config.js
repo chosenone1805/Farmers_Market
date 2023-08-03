@@ -8,6 +8,7 @@ export default {
         "default-bg": "#EBFBF7",
         "button-default": "#154735",
         "deal-default": "#1D6E10",
+        "default-orange": "#DE8838",
       },
       colors: {
         "header-p": "rgba(255, 255, 255, 0.75)",

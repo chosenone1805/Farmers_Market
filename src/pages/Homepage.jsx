@@ -6,6 +6,8 @@ import Market from "../Components/Landing/Market";
 import Best from "../Components/Landing/Best";
 import Product from "../Components/Landing/Product";
 import Deal from "../Components/Landing/Deal";
+import About from "../Components/Landing/About";
+import Footer from "../Components/Landing/Footer";
 
 function Homepage() {
   return (
@@ -17,6 +19,8 @@ function Homepage() {
       <Best />
       <Product />
       <Deal />
+      <About />
+      <Footer />
     </div>
   );
 }
