@@ -5,6 +5,7 @@ import Connect from "../Components/Landing/Connect";
 import Market from "../Components/Landing/Market";
 import Best from "../Components/Landing/Best";
 import Product from "../Components/Landing/Product";
+import Deal from "../Components/Landing/Deal";
 
 function Homepage() {
   return (
@@ -15,6 +16,7 @@ function Homepage() {
       <Market />
       <Best />
       <Product />
+      <Deal />
     </div>
   );
 }

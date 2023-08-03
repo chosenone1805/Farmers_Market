@@ -40,6 +40,13 @@ function Categories() {
               src={sellers}
               alt="selling"
             />
+            <div className="flex gap-2">
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+            </div>
             <h2 className="font-bold text-3xl">Sellers</h2>
             <p className="font-bold">We bring seller to buyers at all time</p>
           </div>
@@ -49,6 +56,13 @@ function Categories() {
               src={consultant}
               alt="selling"
             />
+            <div className="flex gap-2">
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+            </div>
             <h2 className="font-bold text-3xl">Consultant</h2>
             <p className="font-bold">We bring seller to buyers at all time</p>
           </div>
@@ -58,6 +72,13 @@ function Categories() {
               src={ict}
               alt="selling"
             />
+            <div className="flex gap-2">
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+            </div>
             <h2 className="font-bold text-3xl">I.C.T</h2>
             <p className="font-bold">We bring seller to buyers at all time</p>
           </div>
