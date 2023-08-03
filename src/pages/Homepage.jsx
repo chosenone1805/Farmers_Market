@@ -1,10 +1,10 @@
 import React from "react";
-import Header from "../Components/Header";
-import Categories from "../Components/Categories";
-import Connect from "../Components/Connect";
-import Market from "../Components/Market";
-import Best from "../Components/Best";
-import Product from "../Components/Product";
+import Header from "../Components/Landing/Header";
+import Categories from "../Components/Landing/Categories";
+import Connect from "../Components/Landing/Connect";
+import Market from "../Components/Landing/Market";
+import Best from "../Components/Landing/Best";
+import Product from "../Components/Landing/Product";
 
 function Homepage() {
   return (

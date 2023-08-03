@@ -1,5 +1,5 @@
 import React from "react";
-import plank from "../assets/plank.png";
+import plank from "../../assets/plank.png";
 
 function Market() {
   return (

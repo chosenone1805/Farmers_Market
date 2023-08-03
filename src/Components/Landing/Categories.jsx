@@ -1,8 +1,9 @@
 import React from "react";
-import Selling from "../assets/selling.png";
-import sellers from "../assets/sellers.png";
-import consultant from "../assets/consultant.png";
-import ict from "../assets/ict.png";
+import Selling from "../../assets/selling.png";
+import sellers from "../../assets/sellers.png";
+import consultant from "../../assets/consultant.png";
+import ict from "../../assets/ict.png";
+import { Icon } from "@iconify/react";
 
 function Categories() {
   return (
@@ -22,7 +23,15 @@ function Categories() {
               src={Selling}
               alt="selling"
             />
-            <h2 className="font-bold text-3xl">Selling</h2>
+            <div className="flex gap-2">
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon icon="ic:outline-star" color="#e97000" />
+            </div>
+
+            <h2 className="font-bold text-3xl">Buying</h2>
             <p className="font-bold">We bring seller to buyers at all time</p>
           </div>
           <div className="w-[18.75rem] h-[14.4375] rounded-xl items-center justify-center bg-white flex flex-col gap-4 pb-8">

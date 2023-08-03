@@ -1,6 +1,6 @@
 import React from "react";
-import Yam from "../assets/yam.png";
-import Rice from "../assets/rice.png";
+import Yam from "../../assets/yam.png";
+import Rice from "../../assets/rice.png";
 
 function Best() {
   return (

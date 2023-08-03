@@ -1,6 +1,6 @@
 import React from "react";
-import man from "../assets/man.png";
-import woman from "../assets/woman.png";
+import man from "../../assets/man.png";
+import woman from "../../assets/woman.png";
 
 function Connect() {
   return (
