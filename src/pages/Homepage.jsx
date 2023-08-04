@@ -8,6 +8,7 @@ import Product from "../Components/Landing/Product";
 import Deal from "../Components/Landing/Deal";
 import About from "../Components/Landing/About";
 import Footer from "../Components/Landing/Footer";
+import Suscribe from "../Components/Landing/Subscribe";
 
 function Homepage() {
   return (
@@ -20,6 +21,7 @@ function Homepage() {
       <Product />
       <Deal />
       <About />
+      <Suscribe />
       <Footer />
     </div>
   );

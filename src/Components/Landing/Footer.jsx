@@ -4,17 +4,17 @@ import { Icon } from "@iconify/react";
 function Footer() {
   return (
     <div>
-      <footer className="flex flex-col justify-center items-center gap-8">
-        <h1>Follow Us On</h1>
+      <footer className="bg-black text-white pt-4 flex flex-col justify-center items-center gap-8">
+        <h1 className="text-3xl font-bold">Follow Us On</h1>
         <div className="flex gap-10 justify-center items-center">
-          <Icon icon="logos:facebook" />
-          <Icon icon="skill-icons:twitter" />
-          <Icon icon="skill-icons:instagram" />
-          <Icon icon="skill-icons:linkedin" />
+          <Icon className="w-[30px] h-[30px]" icon="logos:facebook" />
+          <Icon className="w-[30px] h-[30px]" icon="skill-icons:twitter" />
+          <Icon className="w-[30px] h-[30px]" icon="skill-icons:instagram" />
+          <Icon className="w-[30px] h-[30px]" icon="skill-icons:linkedin" />
         </div>
         <div className="flex justify-between items-start gap-[120px]">
-          <div className="flex  flex-col gap-4">
-            <h2>Help</h2>
+          <div className="flex justify-center items-center  flex-col gap-4">
+            <h2 className="text-xl font-semibold">Help</h2>
             <ul>
               <li>Contact Us</li>
               <li>Report a Seller</li>
@@ -24,7 +24,7 @@ function Footer() {
             </ul>
           </div>
           <div className="flex flex-col gap-4">
-            <h2>Categories</h2>
+            <h2 className="text-xl font-semibold">Categories</h2>
             <ul>
               <li>Seller</li>
               <li>Buyer</li>
@@ -32,7 +32,7 @@ function Footer() {
             </ul>
           </div>
           <div className="flex flex-col gap-4">
-            <h2>About Us</h2>
+            <h2 className="text-xl font-semibold">About Us</h2>
             <ul>
               <li>About</li>
               <li>Terms and condiction </li>
@@ -42,7 +42,7 @@ function Footer() {
             </ul>
           </div>
           <div className="flex flex-col gap-4">
-            <h2>Hot Links </h2>
+            <h2 className="text-xl font-semibold">Hot Links </h2>
             <ul>
               <li>Company</li>
               <li> Brand</li>
