@@ -16,6 +16,21 @@ function Signup() {
             </div>
           </div>
           <form className="flex flex-col gap-4 max-w-lg px-12">
+            <div className="flex gap-6">
+              <input
+                type="text"
+                className="border border-default-input rounded-lg py-2 px-2 bg-input-background"
+                placeholder="First Name"
+                required
+              />
+              <input
+                type="text"
+                className="border border-default-input rounded-lg py-2 px-2 bg-input-background"
+                placeholder="Last Name"
+                required
+              />
+            </div>
+
             <input
               type="email"
               className="border border-default-input rounded-lg py-2 px-2 bg-input-background"
@@ -28,20 +43,28 @@ function Signup() {
               placeholder="Password"
               required
             />
+            <input
+              type="password"
+              className="border border-default-input rounded-lg py-2 px-2 bg-input-background"
+              placeholder="Confirm Password"
+              required
+            />
 
-            <a href="/" className="text-end text-red-600">
-              Forgot Password?
-            </a>
             <button
               className="bg-default-green text-white py-2 rounded-md border border-yellow-fine "
               type="submit"
             >
-              Sign In
+              Sign Up
             </button>
-            <p className="mt-4">
-              If you don't have Account with us{" "}
-              <span className="font-semibold">
-                <Link to="/signup">Signup</Link>
+
+            <p className="text-sm">
+              By Signing up it means you agee with all policy
+            </p>
+
+            <p className="mt-4 text-end">
+              Already have an account ?
+              <span className="text-red-600 font-semibold">
+                <Link to="/signup"> SignIn</Link>
               </span>
             </p>
           </form>
