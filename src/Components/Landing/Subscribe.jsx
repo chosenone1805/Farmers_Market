@@ -16,7 +16,7 @@ function Subscribe() {
             placeholder="Email Address"
             type="email"
           />
-          <button className="py-2 rounded-lg px-[3.125rem] w-64 text-center text-white text-4xl font-medium bg-default-green ">
+          <button className="py-2 flex justify-center items-center rounded-lg px-[3.125rem] text-center text-white text-4xl font-medium bg-default-green ">
             Subscribe
           </button>
         </div>

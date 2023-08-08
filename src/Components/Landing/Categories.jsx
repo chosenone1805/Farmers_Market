@@ -24,11 +24,26 @@ function Categories() {
               alt="selling"
             />
             <div className="flex gap-2">
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
             </div>
 
             <h2 className="font-bold text-3xl">Buying</h2>
@@ -41,11 +56,26 @@ function Categories() {
               alt="selling"
             />
             <div className="flex gap-2">
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
             </div>
             <h2 className="font-bold text-3xl">Sellers</h2>
             <p className="font-bold">We bring seller to buyers at all time</p>
@@ -57,11 +87,26 @@ function Categories() {
               alt="selling"
             />
             <div className="flex gap-2">
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
             </div>
             <h2 className="font-bold text-3xl">Consultant</h2>
             <p className="font-bold">We bring seller to buyers at all time</p>
@@ -73,11 +118,26 @@ function Categories() {
               alt="selling"
             />
             <div className="flex gap-2">
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
-              <Icon icon="ic:outline-star" color="#e97000" />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
+              <Icon
+                className="w-[1.875rem] h-[1.875rem]"
+                icon="ic:outline-star"
+                color="#e97000"
+              />
             </div>
             <h2 className="font-bold text-3xl">I.C.T</h2>
             <p className="font-bold">We bring seller to buyers at all time</p>
