@@ -64,7 +64,7 @@ function Signup() {
             <p className="mt-4 text-end">
               Already have an account ?
               <span className="text-red-600 font-semibold">
-                <Link to="/signup"> SignIn</Link>
+                <Link to="/login"> SignIn</Link>
               </span>
             </p>
           </form>
