@@ -6,7 +6,7 @@ function Connect() {
   return (
     <div>
       <div className="">
-        <div className="bg-default-green rounded-tl-[4.5rem] rounded-br-[4.5rem] flex justify-center items-center">
+        <div className="bg-profile-background rounded-tl-[4.5rem] rounded-br-[4.5rem] flex justify-center items-center">
           <img src={man} alt="man" />
           <div className="justify-start items-start flex flex-col gap-4">
             <h2 className=" font-bold text-white text-5xl">
