@@ -10,6 +10,7 @@ export default {
         "deal-default": "#1D6E10",
         "default-orange": "#DE8838",
         "input-background": "#DFE7DC",
+        "profile-background": "#1F551A",
       },
       colors: {
         "header-p": "rgba(255, 255, 255, 0.75)",
